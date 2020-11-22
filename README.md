@@ -1,4 +1,4 @@
-# 02inclass-NumberWizard-Console-veusch
+# 05home-NumberWizard2D-veusch
 
 ### Project description: 
 A Programm that guesses a number within a range
