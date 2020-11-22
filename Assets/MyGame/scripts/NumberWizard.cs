@@ -65,4 +65,7 @@ public class NumberWizard : MonoBehaviour
         ButtonNew.SetActive(false);
     }
 
+
+
+  
 }
