@@ -1,4 +1,4 @@
-# Template2D-Unity202015f1
+# 02inclass-NumberWizard-Console-veusch
 
 ### Project description: 
 A Programm that guesses a number within a range
@@ -7,7 +7,7 @@ A Programm that guesses a number within a range
  Unity 2020 1.5f1, Visual Studio 2019, Windows 10
 
 ### Target platform: 
-Desktop
+WebGL, Desktop
 
 ### Visuals: 
 Screenshots (concept and experience), Video
@@ -22,3 +22,5 @@ incl. progress in percent
 How to use/ create buttons 
 
 Copyright by veusch
+
+
