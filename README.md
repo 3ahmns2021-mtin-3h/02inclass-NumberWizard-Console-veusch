@@ -12,11 +12,10 @@ WebGL, Desktop
 ### Visuals: 
 Screenshots (concept and experience), Video
 
-### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+
 
 ### Project state: 
-incl. progress in percent
+100%
 
 ### Lessons Learned: 
 How to use/ create buttons 
