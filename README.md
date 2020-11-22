@@ -1,7 +1,7 @@
 # Template2D-Unity202015f1
 
 ### Project description: 
-A Programm that guesses a number within an given range
+A Programm that guesses a number within a range
 
 ### Development platform: 
  Unity 2020 1.5f1, Visual Studio 2019, Windows 10
