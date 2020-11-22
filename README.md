@@ -1,19 +1,16 @@
 # Template2D-Unity202015f1
 
 ### Project description: 
-Introduction/Project summary 
+A Programm that guesses a number within an given range
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+ Unity 2020 1.5f1, Visual Studio 2019, Windows 10
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+Desktop
 
 ### Visuals: 
 Screenshots (concept and experience), Video
-
-### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
 
 ### Third party material: 
 (if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
@@ -21,8 +18,7 @@ Installation process, e.g. step by step instructions that I can run the project 
 ### Project state: 
 incl. progress in percent
 
-### Limitations: 
-
 ### Lessons Learned: 
+How to use/ create buttons 
 
 Copyright by veusch
